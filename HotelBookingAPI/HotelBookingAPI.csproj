@@ -29,7 +29,6 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="DTOs\UserDTOs\" />
     <Folder Include="DTOs\RoomDTOs\" />
     <Folder Include="DTOs\PaymentDTOs\" />
     <Folder Include="Repository\" />
