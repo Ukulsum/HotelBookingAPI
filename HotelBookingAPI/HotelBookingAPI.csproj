@@ -31,7 +31,6 @@
     <Folder Include="Controllers\" />
     <Folder Include="DTOs\RoomDTOs\" />
     <Folder Include="DTOs\PaymentDTOs\" />
-    <Folder Include="Repository\" />
   </ItemGroup>
 
 </Project>
